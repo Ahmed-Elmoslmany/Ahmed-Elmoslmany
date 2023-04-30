@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Ahmed Elmoslmany
 
 <div align=center>
-	<img src="https://komarev.com/ghpvc/?username=AhmedGamal2212&color=white">
+	<img src="https://komarev.com/ghpvc/?username=AhmedGamal2212&color=cyan">
   </div>
   
 ## About me
