@@ -20,14 +20,14 @@
 
 <p align="center">
     <a href="https://github.com/Ahmed-Elmoslmany">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elmoslmany&langs_count=5&layout=compact&theme=merko">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elmoslmany&langs_count=5&layout=compact&theme=dracula">
     </a>
     <br><br>
     <a href="https://github.com/Ahmed-Elmoslmany">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elmoslmany&show_icons=true&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elmoslmany&show_icons=true&theme=dracula" />
     </a>
     <br><br>
-    <a href="https://github.com/Ahmed-Elmoslmany"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ahmed-Elmoslmany&theme=merko&date_format=M%20j%5B%2C%20Y%5D"></a>
+    <a href="https://github.com/Ahmed-Elmoslmany"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ahmed-Elmoslmany&theme=dracula&date_format=M%20j%5B%2C%20Y%5D"></a>
     <br><br>
     <a>
     <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Elmoslmany&theme=radical&no-frame=false&row=1&&margin-w=30&no-bg=true">
