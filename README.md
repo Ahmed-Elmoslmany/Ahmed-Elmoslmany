@@ -1,8 +1,5 @@
 ### Hi 👋, I'm Ahmed Elmoslmany
 
-<!--
-**Ahmed-Elmoslmany/Ahmed-Elmoslmany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <div align=center>
 	<a href="https://github.com/EmanElsayed2002"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
   </a>
