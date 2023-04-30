@@ -18,8 +18,18 @@
 </p>
 <hr>
 
-<div align=center>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Elmoslmany&show_icons=true&locale=en&layout=compact" alt="Ahmed-Elmoslmany" /> <span style="color:blue">GitHub</span></p>
-	<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elmoslmany&show_icons=true&locale=en" alt="Ahmed-Elmoslmany" /></p>
-
-</div>
+<p align="center">
+    <a href="https://github.com/Ahmed-Elmoslmany">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elmoslmany&langs_count=5&layout=compact&theme=merko">
+    </a>
+    <br><br>
+    <a href="https://github.com/Ahmed-Elmoslmany">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elmoslmany&show_icons=true&theme=radical" />
+    </a>
+    <br><br>
+    <a href="https://github.com/Ahmed-Elmoslmany"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ahmed-Elmoslmany&theme=merko&date_format=M%20j%5B%2C%20Y%5D"></a>
+    <br><br>
+    <a>
+    <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Elmoslmany&theme=radical&no-frame=false&row=1&&margin-w=30&no-bg=true">
+    </a>
+</p>
