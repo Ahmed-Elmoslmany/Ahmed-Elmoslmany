@@ -1,8 +1,7 @@
 ### Hi 👋, I'm Ahmed Elmoslmany
 
 <div align=center>
-	<a href="https://github.com/Ahmed-Elmoslmany"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+	<img src="https://komarev.com/ghpvc/?username=AhmedGamal2212&color=white">
   </div>
   
 ## About me
