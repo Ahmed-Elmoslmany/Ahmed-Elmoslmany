@@ -18,8 +18,9 @@
 </p>
 <hr>
 
-<!-- github stats and trophies -->
-## <p><img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" alt="stats" width="50px"> <span style="color:blue">GitHub</span> Stats</p>
+
+ ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+
 
 <p align="center">
     <a href="https://github.com/Ahmed-Elmoslmany">
