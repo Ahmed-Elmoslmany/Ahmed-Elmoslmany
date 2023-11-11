@@ -21,21 +21,3 @@
 <hr>
 
 
- ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
-
-
-<p align="center">
-    <a href="https://github.com/Ahmed-Elmoslmany">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elmoslmany&langs_count=5&layout=compact&theme=tokyonight">
-    </a>
-    <br><br>
-    <a href="https://github.com/Ahmed-Elmoslmany">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elmoslmany&show_icons=true&theme=tokyonight" />
-    </a>
-    <br><br>
-    <a href="https://github.com/Ahmed-Elmoslmany"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ahmed-Elmoslmany&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"></a>
-    <br><br>
-    <a>
-    <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Elmoslmany&theme=radical&no-frame=false&row=1&&margin-w=30&no-bg=true">
-    </a>
-</p>
